@@ -64,3 +64,5 @@ STOPSIGNAL SIGINT
 
 # Finally, execute helper script
 ENTRYPOINT [ "/usr/local/bin/entrypoint" ]
+
+# Fixed
